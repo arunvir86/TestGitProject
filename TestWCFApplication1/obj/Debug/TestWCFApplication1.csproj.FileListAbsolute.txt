@@ -1,0 +1,6 @@
+c:\users\ramadh04\documents\visual studio 2013\Projects\TestWCFApplication1\TestWCFApplication1\bin\TestWCFApplication1.dll.config
+c:\users\ramadh04\documents\visual studio 2013\Projects\TestWCFApplication1\TestWCFApplication1\bin\TestWCFApplication1.dll
+c:\users\ramadh04\documents\visual studio 2013\Projects\TestWCFApplication1\TestWCFApplication1\bin\TestWCFApplication1.pdb
+c:\users\ramadh04\documents\visual studio 2013\Projects\TestWCFApplication1\TestWCFApplication1\obj\Debug\TestWCFApplication1.csprojResolveAssemblyReference.cache
+c:\users\ramadh04\documents\visual studio 2013\Projects\TestWCFApplication1\TestWCFApplication1\obj\Debug\TestWCFApplication1.dll
+c:\users\ramadh04\documents\visual studio 2013\Projects\TestWCFApplication1\TestWCFApplication1\obj\Debug\TestWCFApplication1.pdb
